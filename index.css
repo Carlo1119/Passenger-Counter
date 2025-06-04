@@ -1,11 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  /*box-sizing: border-box;*/
 }
 
 body {
-  background-image: url('./images/train_station.jpeg');
+  background: url('./images/train_station.jpeg');
   background-size: cover;
 }
 
